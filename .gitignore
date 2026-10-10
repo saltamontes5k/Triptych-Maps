@@ -1,0 +1,7 @@
+*.log
+tools/map_edit/imgui.ini
+
+.idea
+
+maps.zip
+*.tmp
